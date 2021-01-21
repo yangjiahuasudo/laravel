@@ -12,7 +12,7 @@
 <link rel="apple-touch-startup-image" sizes="768x1004" href="/Index/images/splash-screen-ipad-portrait.png" media="screen and (min-device-width : 481px) and (max-device-width : 1024px) and (orientation : portrait)" />
 <link rel="apple-touch-startup-image" sizes="1536x2008" href="/Index/images/splash-screen-ipad-portrait-retina.png"   media="(device-width: 768px)	and (orientation: portrait)	and (-webkit-device-pixel-ratio: 2)"/>
 <link rel="apple-touch-startup-image" sizes="1496x2048" href="/Index/images/splash-screen-ipad-landscape-retina.png"   media="(device-width: 768px)	and (orientation: landscape)	and (-webkit-device-pixel-ratio: 2)"/>
-<title>崔锋宠物店-welcome</title>
+<title>崔锋宠物店-welcome </title>
 <link href="/Index/css/style.css"     		 rel="stylesheet" type="text/css">
 <link href="/Index/css/framework.css" 		 rel="stylesheet" type="text/css">
 <link href="/Index/css/menu.css" 		 	 rel="stylesheet" type="text/css">
